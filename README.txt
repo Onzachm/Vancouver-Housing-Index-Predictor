@@ -7,3 +7,5 @@ Submission Deadline 11:59 Dec 13, 2020
 https://myclass.ufv.ca/webapps/assignment/uploadAssignment?content_id=_1485963_1&course_id=_45329_1&group_id=&mode=cpview
 
 Compliled in Jupyter Notebook
+
+Test data cleaned and saved in VAN.csv
