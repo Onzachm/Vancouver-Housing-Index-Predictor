@@ -9,3 +9,5 @@ https://myclass.ufv.ca/webapps/assignment/uploadAssignment?content_id=_1485963_1
 Compliled in Jupyter Notebook
 
 Test data cleaned and saved in VAN.csv
+Source code saved in VAN_Housing.ipynb
+Source code with verbose output saved in Van_Housing_visualized.ipnyb
