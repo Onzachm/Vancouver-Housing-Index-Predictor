@@ -7,7 +7,7 @@ This Jupyter Notebook contains code for cleaning data and building an LSTM (Long
 The first part of the notebook focuses on cleaning the data before training the LSTM model. The following steps are performed:
 
 1. Importing the necessary libraries for data cleaning, data plotting, data ingestion, and data preprocessing.
-2. Reading the data from the 'VAN.csv' file using Pandas.
+2. Reading the data from the 'data.csv' file using Pandas.
 3. Splitting the data into training and test sets based on a specific date.
 4. Cleaning the training data by dropping unnecessary columns ('REF_DATE' and 'GEO') and keeping only the 'VALUE' column for prediction.
 5. Applying MinMax scaling to normalize the training data.
@@ -34,12 +34,12 @@ Before running the code in this notebook, ensure that the following libraries ar
 - scikit-learn
 - TensorFlow
 
-Also, make sure that the 'VAN.csv' file is present in the same directory as this notebook.
+Also, make sure that the 'data.csv' file is present in the same directory as this notebook.
 
 ## Usage
 
 1. Open visualization_source using JupyterLab, Jupyter Notebook, or any compatible environment.
-2. Make sure the required libraries and the dataset ('VAN.csv') are available.
+2. Make sure the required libraries and the dataset ('data.csv') are available.
 3. Run each code cell sequentially to perform data cleaning, build the LSTM model, and visualize the predictions.
 
 Note: Adjustments may be required based on specific dataset characteristics or model requirements.
