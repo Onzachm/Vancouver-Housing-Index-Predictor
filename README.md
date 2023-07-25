@@ -38,7 +38,7 @@ Also, make sure that the 'VAN.csv' file is present in the same directory as this
 
 ## Usage
 
-1. Open the Jupyter Notebook using JupyterLab, Jupyter Notebook, or any compatible environment.
+1. Open visualization_source using JupyterLab, Jupyter Notebook, or any compatible environment.
 2. Make sure the required libraries and the dataset ('VAN.csv') are available.
 3. Run each code cell sequentially to perform data cleaning, build the LSTM model, and visualize the predictions.
 
